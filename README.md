@@ -1,2 +1,2 @@
 # GameOfNim
-This has a single Python file which has a terminal game: Game of Nim.
+This has a single Python file which has a terminal game: Game of Nim. It's a very basic attempt at this game. You have to choose a difficulty. There are two of them. Its easier to beat the hard level, and close to impossible to beat the impossible level. The rule is, the one to kill the last dragon, wins. You cannot choose dragons from different caves in 1 turn. You have to stick to one of the caves for the current turn. This code would work well in IDE, but not in jupyter notebook. Its a TERMINAL Game.
